@@ -42,7 +42,7 @@ By incorporating these essential features, RentFun aims to revolutionize the NFT
 * NFT owners couldn't play the Trove games with their NFTs  24/7. 
 
 
-**RentFun Solution:** RentFun aims to make the NFT utility freely liquid between NFT owners and renters through the innovative Access Delegation protocol.
+**RentFun Solution:** RentFun aims to make the NFT utility freely liquid between NFT owners and renters through the innovative [Access Delegation protocol](https://docs.rentfun.io/access-delegation-protocol).
 
 
 **Problem #2: Current NFT rental solutions are not user friendly.**
