@@ -23,7 +23,7 @@ RentFun's primary objective is to establish an NFT rental hub, promoting the liq
 
 At the core of RentFun's vision lies a groundbreaking Access Delegation Protocol, designed to streamline the process for NFT owners, allowing them to delegate access rights solely to the renters to realize the NFT rentals.
 
-Key Features of RentFun include:
+**Key Features** of RentFun include:
 
 * Complete safety for NFT owners, ensuring they retain full control over their NFTs.
 * Low rental costs for renters, with access to the original NFTs rather than wrapped versions.
