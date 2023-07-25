@@ -17,7 +17,7 @@
 
 * However, the development of the testnet, security audits, and marketing campaigns entail significant costs. Therefore, securing a grant from the Arbitrum Foundation would be immensely beneficial for RentFun to cover these essential expenses.
 
-## Project Overview
+# Project Overview
 
 RentFun's primary objective is to establish an NFT rental hub, promoting the liquidity of NFT utility on both Arbitrum One and Nova.
 
@@ -33,7 +33,7 @@ At the core of RentFun's vision lies a groundbreaking Access Delegation Protocol
 By incorporating these essential features, RentFun aims to revolutionize the NFT rental space, benefiting both NFT owners and renters alike.
 
 
-## Problems and Solutions
+# Problems and Solutions
 
 
 **Problem #1: 98% NFTs are desperate for solutions to liquify their utility on Arbtrum.**
@@ -61,7 +61,7 @@ By incorporating these essential features, RentFun aims to revolutionize the NFT
 **RentFun Solution:** RentFun builds a native NFT rental hub for Arbitrum One and Nova to serve any NFT projects including games, metaverse, membership cards and RWA NFTs. RentFun will greatly boost their adoption by lowering down the entry barrier in a secure and scalable way.
 
 
-## Team
+# Team
 
 **Blank Lee(Co-founder, CEO)**
 * Former core builder of StaFi (https://twitter.com/StaFi_Protocol) since 2020, which is one of the well-known liquid staking protocols with over $40M TVL.
@@ -111,7 +111,7 @@ By incorporating these essential features, RentFun aims to revolutionize the NFT
 * The Founder of Shift (https://twitter.com/shiftdotlol/), the NFT Marketplace Aggregator on Arbitrum.
 * Twitter: https://twitter.com/0x_Astro
 
-## Ecosystem Fits
+# Ecosystem Fits
 Now, the DeFi space on Arbitrum has reached a high level of maturity, while the NFT space still holds immense untapped potential. Particularly, the Web3 games and Real-world Assets NFTs play a crucial role in driving mass adoption on Arbitrum. In line with this, Arbitrum has allocated significant resources to attract game developers, as evidenced by the launch of the Nova chain.
 
 As the native NFT rental protocol on Arbitrum, RentFun aims to contribute significantly to the expansion of user bases for all NFT projects on the platform. This will be achieved through the following benefits:
@@ -121,7 +121,7 @@ As the native NFT rental protocol on Arbitrum, RentFun aims to contribute signif
 
 By providing these advantages, RentFun plays a crucial role in propelling the growth and adoption of NFTs on Arbitrum, making it an invaluable asset for the platform's overall success.
 
-## Current Progress
+# Current Progress
 
 Currently, the RentFun marketplace testnet is undergoing internal testing. Over the past 5 months, we have achieved significant milestones:
 * **Community Growth:** We have garnered a strong and engaged community, boasting 2.6K Twitter followers and 400 Discord users, all achieved through 100% organic growth.
@@ -133,9 +133,9 @@ Currently, the RentFun marketplace testnet is undergoing internal testing. Over 
 With these achievements, RentFun is making significant strides towards revolutionizing the NFT rental space and promoting wider adoption of NFTs on Arbitrum. We are excited to continue our journey and deliver a groundbreaking platform for the NFT community.
 
 
-## Milestones and Deliverables
+# Milestones and Deliverables
 
-# Milestone 1– Testnet Launch with Basic Features on Sep 30, 2023
+## Milestone 1– Testnet Launch with Basic Features on Sep 30, 2023
 
 **KPI Goals:** Full And Secure Functionality including bulk renting & listing, claim rewards, Analytical stats, Watchlist and RentFun Vault account. Attracting no less than 1,000 wallet addresses for testing in the public testnet testing campaign. 
 
@@ -158,7 +158,7 @@ With these achievements, RentFun is making significant strides towards revolutio
 | 4      | Testnet Marketplace                   | Launching a fully functional testnet product with an intuitive UI/UX frontend, incorporating bulk listing/renting, claiming rewards, watchlist, collection activities, listing setup, and rental setup. |
 | 5      | Public Testing and Bug Bounty Program | Engagement of the community through public testnet participation, accompanied by a bug bounty program.                                                                                                  |
 
-# Milestone 2– Mainnet Launch and Community Engagement on Nov 15, 2023
+## Milestone 2– Mainnet Launch and Community Engagement on Nov 15, 2023
 
 **KPI Goals:** Achieving no less than 3 official integrations on the mainnet Launch; Mainnet Launch campaign with a target of over 500 monthly rental transactions in the first month.
 
@@ -182,8 +182,8 @@ With these achievements, RentFun is making significant strides towards revolutio
 | 5      | UI/UX Optimizations        | Continuous optimization of UI/UX and features post mainnet launch to ensure product-market fit.                                                                                                                                    |
 
 
-## Budget Breakdown
-# Milestone 1– Testnet Launch with Basic Features on Sep 30, 2023
+# Budget Breakdown
+## Milestone 1– Testnet Launch with Basic Features on Sep 30, 2023
 
 **Total Cost:** $12,800 USD
 
@@ -210,7 +210,7 @@ With these achievements, RentFun is making significant strides towards revolutio
 * Internal Testnet: 20 Hours * $40/Hour, total cost: $800
 * Mainnet Marketing Campaign: Marketing,Docs and Videos $800
 
-## Challenges
+# Challenges
 
 **Challenge 1: Lack of Funds**
 
@@ -224,7 +224,7 @@ RentFun's success is dependent on NFT projects integrating the RentFun SDK into 
 
 **Solution:** The team is committed to continuously building and showcasing the value of RentFun to boost user activity and engagement for the trove games. By presenting well-designed proof-of-concept demos, RentFun has already established official partnerships with LifeVerse, PrimapesDAO, Legend of EROS, and Gainlings. As the mainnet launch approaches, these partners will witness the real value of RentFun, making integrations smoother and more feasible.
 
-## Aditional Info ##
+# Aditional Info ##
 
 **Website:** https://rentfun.io/
 
