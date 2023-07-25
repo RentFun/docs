@@ -28,8 +28,11 @@ At the core of RentFun's vision lies a groundbreaking Access Delegation Protocol
 **Key Features** of RentFun include:
 
 * Complete safety for NFT owners, ensuring they retain full control over their NFTs.
+  
 * Low rental costs for renters, with access to the original NFTs rather than wrapped versions.
+  
 * No security risks for the original NFT issuers during integration.
+  
 * Capability to lend out an entire account holding hundreds of NFTs.
 
 By incorporating these essential features, RentFun aims to revolutionize the NFT rental space, benefiting both NFT owners and renters alike.
@@ -40,7 +43,8 @@ By incorporating these essential features, RentFun aims to revolutionize the NFT
 
 **Problem #1: 98% NFTs are desperate for solutions to liquify their utility on Arbtrum.**
 
-* Only 1%~2% NFTs are listed on Trove Marketplace or OpenSea Arbitrum which means 98% to 99% NFTs are just staying idly in their owner’s wallets. 
+* Only 1%~2% NFTs are listed on Trove Marketplace or OpenSea Arbitrum which means 98% to 99% NFTs are just staying idly in their owner’s wallets.
+  
 * NFT owners couldn't play the Trove games with their NFTs  24/7. 
 
 
@@ -67,58 +71,79 @@ By incorporating these essential features, RentFun aims to revolutionize the NFT
 
 **Blank Lee(Co-founder, CEO)**
 * Former core builder of StaFi (https://twitter.com/StaFi_Protocol) since 2020, which is one of the well-known liquid staking protocols with over $40M TVL.
+  
 * In charge of partnerships, strategy, and operations.
+  
 * An Ethereum enthusiast and $ARB Maxi.
+  
 * Holds a Master's Degree in Finance and has been dedicated full-time to the crypto industry since 2018.
+  
 * Twitter: https://twitter.com/Blanklee3
 
 **Kevin( Co-founder, CTO) :**
 * Former core dev of StaFi (https://twitter.com/StaFi_Protocol) since 2020, which is one of the well-known liquid staking protocols with over $40M TVL.
+  
 * Mainly responsible for back-end development and contract coding.
+  
 * Possesses over 10 years of experience as a full-stack developer and has a strong proficiency in Solidity and Rust.
+  
 * Holds a Master's Degree in Computer Science and has been fully immersed in the crypto industry since 2020.
+  
 * Twitter: https://twitter.com/Kevin176732291
 
 **Zack (Product Lead):**
 * Former senior product manager at Huobi Global, overseeing Huobi Pool, Asset Management, and innovative DeFi projects on Huobi Chain.
+  
 * Boasts over 7 years of experience in product design with exceptional UI/UX development skills in DeFi, Fintech, Crypto, and NFT projects.
+  
 * Engaged full-time as a product manager in the crypto industry since 2018.
 
 **Bernard Zhou (Senior Full-stack Engineer):**
 * A Web3-native technology enthusiast who developed a keen interest in Bitcoin during his college years in 2016.
+  
 * Previously served as chief engineer in several DeFi and NFT projects, including Ruby, NFT3, and ETK.
 
 **Gangsta (Partnerships):**
 
 * Demonstrates a strong foundation in education and public relations, effectively building strategic partnerships and alliances, contributing significantly to the growth of organizations served.
+  
 * Possesses over 2 years of experience with a proven track record of success in public relations and business development within the crypto industry.
+  
 * Twitter: https://twitter.com/GangstaGeekXXX
 
 
 **Dashred (Community Manager):**
 * An enthusiastic and devoted member of Axie Infinity and The Beacon communities.
+  
 * Holds the position of CXO at BigYak Axie Club (https://twitter.com/BigYakAxieClub), where he actively contributes to onboarding, development, and promotion of various community initiatives and projects.
+  
 * Twitter: https://twitter.com/dash123d
 
 **Larva (Advisor):**
 * The founder of ArbitrumNewsDAO (https://twitter.com/ArbitrumNewsDAO).
+  
 * Twitter: https://twitter.com/Larvandweb3
 
 **Shred (Advisor):**
 * A Key Opinion Leader (KOL) and Original Gangster (OG) within the TreasureDAO community.
+  
 * Twitter: https://twitter.com/TheShred_
 
 **Astro (Advisor):**
 
 * The Founder of Shift (https://twitter.com/shiftdotlol/), the NFT Marketplace Aggregator on Arbitrum.
+  
 * Twitter: https://twitter.com/0x_Astro
 
 # Ecosystem Fits
 Now, the DeFi space on Arbitrum has reached a high level of maturity, while the NFT space still holds immense untapped potential. Particularly, the Web3 games and Real-world Assets NFTs play a crucial role in driving mass adoption on Arbitrum. In line with this, Arbitrum has allocated significant resources to attract game developers, as evidenced by the launch of the Nova chain.
 
 As the native NFT rental protocol on Arbitrum, RentFun aims to contribute significantly to the expansion of user bases for all NFT projects on the platform. This will be achieved through the following benefits:
+
 * I**ncreased Accessibility:** RentFun allows more users to access NFT projects' ecosystems by offering NFT rentals at a fraction of the ownership cost.
+  
 * **Enhanced Attractiveness of NFTs:** NFT holders will find their assets more appealing, knowing they can earn passive income by renting them out.
+  
 * **Bridging the Gap:** RentFun bridges the gap between individuals with limited time and financial resources within NFT communities.
 
 By providing these advantages, RentFun plays a crucial role in propelling the growth and adoption of NFTs on Arbitrum, making it an invaluable asset for the platform's overall success.
@@ -126,10 +151,15 @@ By providing these advantages, RentFun plays a crucial role in propelling the gr
 # Current Progress
 
 Currently, the RentFun marketplace testnet is undergoing internal testing. Over the past 5 months, we have achieved significant milestones:
+
 * **Community Growth:** We have garnered a strong and engaged community, boasting 2.6K Twitter followers and 400 Discord users, all achieved through 100% organic growth.
+  
 * **Valuable Partnerships:** RentFun has established official partnerships with four prominent entities, including [LifeVerse](https://mirror.xyz/rentfun.eth/aYX87crsznOs-JSrbKFgHq_A0gUXy6pv_V7IPLYlO_4) , [PrimapesDAO](https://mirror.xyz/rentfun.eth/Rs5yqTM8Sv5ftQHmmoKRV2f958bcqtgF1NL21JJmDzM), [Legend of EROS](https://mirror.xyz/rentfun.eth/raWPfd56uXQNBX2aqI04RbVypLZYpx5-IHRJDtDPEss), and [Gainlings](https://mirror.xyz/rentfun.eth/l8Sig9upE1XfZiw1xtrzMYnrXwUJaHO42wTjA7azUVo).
+  
 * **Support from Early Contributors:** We are proud to have received support from 14 early contributors within the community through Early Bird Program.
+  
 * **Proof-of-Concept Demo:** We have successfully released a Proof-of-Concept (PoC) demo, showcasing our progress and capabilities. You can find the demo here: https://twitter.com/rentfun_io/status/1638731103677841409
+  
 * **Marketplace V1 UI/UX Design:** The design for the marketplace's initial version (V1) is now complete, ensuring an intuitive and user-friendly experience for our users.
 
 With these achievements, RentFun is making significant strides towards revolutionizing the NFT rental space and promoting wider adoption of NFTs on Arbitrum. We are excited to continue our journey and deliver a groundbreaking platform for the NFT community.
@@ -191,12 +221,19 @@ With these achievements, RentFun is making significant strides towards revolutio
 
 **Budget Items and Descriptions:**
 * UI/UX Designer: 80 Hours * $30/Hour, total cost: $2,400
+  
 * Contracts: 50 Hours * $40/Hour, total cost: $2,000
+  
 * Back-end dev: 30 Hours * $40/Hour, total cost: $1,200
+  
 * Front-end dev: 30 Hours *$40/Hour, total cost: $1,200
+  
 * Internal Testnet: 50 Hours * 40/Hour, total cost: $2,000
+  
 * Testing Marketing Campaign: Marketing $200
+  
 * Docs and Videos $800
+  
 * Bug Bounty Rewards: $3,000
 
 ## Milestone 2– Mainnet Launch and Community Engagement on Nov 15, 2023
@@ -205,11 +242,17 @@ With these achievements, RentFun is making significant strides towards revolutio
 
 **Budget Items and Descriptions:**
 * Security Audit: $13,000
+  
 * UI/UX Designer: 20 Hours * $30/Hour, total cost: $600
+  
 * Contracts: 10 Hours * $40/Hour, total cost: $400
+  
 * Back-end dev: 20 Hours * $40/Hour, total cost: $800
+  
 * Front-end dev: 20 Hours *$40/Hour, total cost: $800
+  
 * Internal Testnet: 20 Hours * $40/Hour, total cost: $800
+  
 * Mainnet Marketing Campaign: Marketing,Docs and Videos $800
 
 # Challenges
