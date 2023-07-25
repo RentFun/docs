@@ -9,7 +9,7 @@
 
 **Why Request This Grant?**
 
-* RentFun is revolutionizing the Access Delegation Protocol by building it upon the ERC-6551 Vault Account, with the ultimate goal of unlocking liquidity for NFT utility on both Arbitrum One and Nova.
+* RentFun is revolutionizing the [Access Delegation Protocol](https://docs.rentfun.io/access-delegation-protocol) by building it upon the ERC-6551 Vault Account, with the ultimate goal of unlocking liquidity for NFT utility on both Arbitrum One and Nova.
 
 
 * Since its inception in early January 2023, the entire project has been self-funded by the founder, Blank. Despite the ongoing bearish market conditions, RentFun has not yet sought external funding.
