@@ -15,7 +15,9 @@
 * Since its inception in early January 2023, the entire project has been self-funded by the founder, Blank. Despite the ongoing bearish market conditions, RentFun has not yet sought external funding.
 
 
-* However, the development of the testnet, security audits, and marketing campaigns entail significant costs. Therefore, securing a grant from the Arbitrum Foundation would be immensely beneficial for RentFun to cover these essential expenses.
+* However, the development of the testnet, security audits, and marketing campaigns entail significant costs.
+
+* Therefore, securing a grant from the Arbitrum Foundation would be immensely beneficial for RentFun to cover these essential expenses.
 
 # Project Overview
 
