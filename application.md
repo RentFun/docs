@@ -171,7 +171,7 @@ With these achievements, RentFun is making significant strides towards revolutio
 
 **KPI Goals:** Full And Secure Functionality including bulk renting & listing, claim rewards, Analytical stats, Watchlist and RentFun Vault account. Attracting no less than 1,000 wallet addresses for testing in the public testnet testing campaign. 
 
-**Estimated Duration:** 3 months(ETA: Sep 30, 2023)
+**Estimated Duration:** 2 months(ETA: Sep 30, 2023)
 
 **Full-time Equivalent(FTE):** 2 FTE
 
