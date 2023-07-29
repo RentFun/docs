@@ -154,7 +154,7 @@ Currently, the RentFun marketplace testnet is undergoing internal testing. Over 
 
 * **Community Growth:** We have garnered a strong and engaged community, boasting 2.6K Twitter followers and 400 Discord users, all achieved through 100% organic growth.
   
-* **Valuable Partnerships:** RentFun has established official partnerships with four prominent entities, including [LifeVerse](https://mirror.xyz/rentfun.eth/aYX87crsznOs-JSrbKFgHq_A0gUXy6pv_V7IPLYlO_4) , [PrimapesDAO](https://mirror.xyz/rentfun.eth/Rs5yqTM8Sv5ftQHmmoKRV2f958bcqtgF1NL21JJmDzM), [Legend of EROS](https://mirror.xyz/rentfun.eth/raWPfd56uXQNBX2aqI04RbVypLZYpx5-IHRJDtDPEss), and [Gainlings](https://mirror.xyz/rentfun.eth/l8Sig9upE1XfZiw1xtrzMYnrXwUJaHO42wTjA7azUVo).
+* **Valuable Partnerships:** RentFun has established official partnerships with four prominent entities, including [Kuroro Beasts](https://mirror.xyz/rentfun.eth/Gcl1zldNcAK7Ly-zFwMF_r-zOLB01-I2qrNq-yBLADM) [LifeVerse](https://mirror.xyz/rentfun.eth/aYX87crsznOs-JSrbKFgHq_A0gUXy6pv_V7IPLYlO_4) , [PrimapesDAO](https://mirror.xyz/rentfun.eth/Rs5yqTM8Sv5ftQHmmoKRV2f958bcqtgF1NL21JJmDzM), [Legend of EROS](https://mirror.xyz/rentfun.eth/raWPfd56uXQNBX2aqI04RbVypLZYpx5-IHRJDtDPEss), and [Gainlings](https://mirror.xyz/rentfun.eth/l8Sig9upE1XfZiw1xtrzMYnrXwUJaHO42wTjA7azUVo).
   
 * **Support from Early Contributors:** We are proud to have received support from 14 early contributors within the community through Early Bird Program.
   
